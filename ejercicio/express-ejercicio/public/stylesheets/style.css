@@ -13,9 +13,10 @@ footer               { background: #FFF; text-align: center; height: 10%;}
 nav span             { margin: 0px 10px 0px 0px;
   					   width: 100%;
   					   display: inline-block;}
-#s1{margin-left:0px!important;padding-bottom:4.5%!important;}
-#s1, #n1{height: 30% !important; margin-bottom: 1% !important;}
+#s1{margin-left:0px!important;}
+#s1, #n1{height: 260px !important; margin-bottom: 1% !important;}
 #h1{height:10%; margin-bottom: 1%!important;}
+
 #ErrorMsgs           { color: #f61; font-size: smaler}
 .right 				 {float: right;}
 h3{color: #fff!important; font-size: 20px!important; margin-bottom:2%!important}
